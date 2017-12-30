@@ -1,0 +1,15 @@
+/*
+Theme Name: zBoom Music
+Theme URI: www.codesmithtech.com
+Author: Arnab
+Author URI: www.codesmithtech.com
+Description: Simple Wordpress Theme
+Tags: music, wordpress
+Text Domain: zBoom
+*/
+
+.comment-body .comment-author img {
+	height: 30px;
+	width: 30px;
+
+}
